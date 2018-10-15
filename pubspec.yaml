@@ -5,3 +5,5 @@ description: Efficient implementation of a bitset.
 homepage: https://github.com/skalkin/bit_set
 dev_dependencies:
   test: any
+environment:
+  sdk: ">= 2.0.0 < 3.0.0"
